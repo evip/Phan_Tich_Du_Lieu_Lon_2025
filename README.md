@@ -1,3 +1,6 @@
+<h2>Đề tài</h2>
+<img src = "docs/nhom.jpg" />
+
 <h2>Danh sách liên kết tài nguyên</h2>
 
 <table>
